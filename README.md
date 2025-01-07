@@ -1,7 +1,5 @@
 # Project Title: Water Consumption Prediction in Malaysia
 
-## WQD7001: PRINCIPLES OF DATA SCIENCE
-
 ## Group members:
 - Arun Kumar (23082194)
 - Siti Nur Liyana Binti Roslan (23067122)
